@@ -1,1 +1,1 @@
-Desafio Estacionamento utilizando Laços de repeteições, listas e tomadas de decisão
+Desafio Estacionamento utilizando Laços de repetições, listas e tomadas de decisão
